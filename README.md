@@ -2,7 +2,7 @@
 
   
 
--  **Telegram**: @SergeyFedotenkov
+-  **Telegram**: [@SergeyFedotenkov](https://t.me/SergeyFedotenkov)
 
 -  **Email**: wired.required@gmail.com
 
