@@ -7,7 +7,7 @@
 
 -  **Email**: wired.required@gmail.com
 
--  **LinkedIn**: [linkedin.com/in/ваш-профиль](https://ru.linkedin.com/in/sergey-fedotenkov)  
+-  **LinkedIn**: [ru.linkedin.com/in/sergey-fedotenkov](https://ru.linkedin.com/in/sergey-fedotenkov)  
 
 ---
 
