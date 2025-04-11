@@ -1,5 +1,8 @@
 # Сергей Федотенков
 
+-  **Локация**: РФ
+
+-  **Формат работы**: Удаленка
 
 -  **Telegram**: [@SergeyFedotenkov](https://t.me/SergeyFedotenkov)
 
